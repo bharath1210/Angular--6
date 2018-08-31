@@ -1,0 +1,25 @@
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+.container-fluid {
+	padding: 0 px;
+	margin: 0 px;
+	background-color: grey;
+	width:auto;
+	height: 100%;
+}
+.header{margin: 1 px;
+	padding: 10px;
+	text-align: center;
+	background-color:grey;
+	border:1px dashed white;
+	border-collapse: collapse;
+}
+.grid-section{text-align: center;
+	margin: 1px;
+	border:0px 1px 1px 1px solid white;
+	 background: #499999
+}
+span {
+	
+	color: white;
+}
